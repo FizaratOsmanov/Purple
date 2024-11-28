@@ -18,6 +18,7 @@ namespace PurpleApp
                 opt.Password.RequiredLength = 4;
                 opt.Password.RequireUppercase = false;
                 opt.Password.RequiredUniqueChars = 2;
+                opt.User.RequireUniqueEmail = true;
                 opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._ ";
                 
             }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
@@ -28,6 +29,7 @@ namespace PurpleApp
 
             var app = builder.Build();
             app.UseStaticFiles();
+            app.UseAuthentication();
             app.MapControllerRoute(
             name: "areas",
             pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");

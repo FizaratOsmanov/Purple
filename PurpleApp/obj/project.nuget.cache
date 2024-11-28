@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W8U8ZcEi4kQ=",
+  "dgSpecHash": "rZ+aBHBus2o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Source\\Repos\\HomeworkRepository\\Purple\\PurpleApp\\PurpleApp.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Source\\Repos\\Purple\\PurpleApp\\PurpleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -7776,11 +7776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Source\\Repos\\HomeworkRepository\\Purple\\PurpleApp\\PurpleApp.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Source\\Repos\\Purple\\PurpleApp\\PurpleApp.csproj",
       "projectName": "PurpleApp",
-      "projectPath": "C:\\Users\\LENOVO\\Source\\Repos\\HomeworkRepository\\Purple\\PurpleApp\\PurpleApp.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Source\\Repos\\Purple\\PurpleApp\\PurpleApp.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Source\\Repos\\HomeworkRepository\\Purple\\PurpleApp\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Source\\Repos\\Purple\\PurpleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
